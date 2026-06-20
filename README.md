@@ -2,8 +2,6 @@
 
 A simple tool that creates strong, random passwords for you.
 
-**Author:** [MultiRight](https://github.com/MultiRight)
-
 ---
 
 ## What is this?
@@ -67,7 +65,7 @@ The program will always tell you what went wrong and let you try again. Here is 
 
 ## Author
 
-Made by [MultiRight](https://github.com/MultiRight)
+[MultiRight](https://github.com/MultiRight)
 ---
 
 ## 🐱 Special Thanks
