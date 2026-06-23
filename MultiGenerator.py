@@ -4,7 +4,6 @@
 
 # Copyright © 2026 MultiRight <https://github.com/MultiRight>
 
-
 import secrets
 import sys
 
