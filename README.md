@@ -22,7 +22,7 @@ multigenerator is a small Python program that runs in your terminal and generate
 
 **1. Download the project**
 ```bash
-git clone https://github.com/Mohssine0x/multigenerator.git
+git clone https://github.com/MohssineX/multigenerator.git
 cd multigenerator
 ```
 
