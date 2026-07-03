@@ -1,4 +1,4 @@
-# multigenerator
+# 🔑 multigenerator
 
 A lightweight terminal utility for generating strong and random passwords.
 
